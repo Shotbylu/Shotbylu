@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shotbylu
+- 👀 I’m interested in Machine learning, statistics & Data science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me (lungelosibisi83@gmail.com)
+- 😄 Pronouns: HIM
+- ⚡ Fun fact: I AM A MACHINE LEARNING FANATIC.
