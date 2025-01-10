@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me (lungelosibisi83@gmail.com)
-- 😄 Pronouns: HIM
+- 😄 Pronouns: Im HIM 
 - ⚡ Fun fact: I AM A MACHINE LEARNING FANATIC.
