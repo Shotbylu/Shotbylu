@@ -56,6 +56,7 @@ Fitness
 Sports
 Advertising
 And many more!
+
 🌟 Playing with Computer Vision
 
 🌟 Natural Language Process
