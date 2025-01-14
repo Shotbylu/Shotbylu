@@ -29,9 +29,11 @@
 ![image](https://github.com/user-attachments/assets/235896de-eadc-4023-812f-a565fc06eaca) ![image](https://github.com/user-attachments/assets/2cf5c33f-1beb-4a6d-a32a-96d0540aa3ea)
 
 **Databases**
+
 ![image](https://github.com/user-attachments/assets/da96643a-3246-4f3b-bf46-5ca4391bdb97) ![image](https://github.com/user-attachments/assets/1758cdf3-d220-47e4-90f3-891f200bddbe) ![image](https://github.com/user-attachments/assets/39066b1d-7d53-43d8-8a34-27b13a1ef338)
 
 **Frontend Development**
+
 ![image](https://github.com/user-attachments/assets/1208e86f-ac21-4d9f-98a8-fcc5a21f69a4) ![image](https://github.com/user-attachments/assets/ce9257df-3d60-4279-aa2d-a333b92b868e) ![image](https://github.com/user-attachments/assets/e89d082a-1f11-4f4c-bb17-4e1e503e5f59)
 
 **⚡Areas of Interest**
