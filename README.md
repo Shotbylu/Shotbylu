@@ -2,7 +2,9 @@
 Programming Languages
 Python JavaScript LaTeX
 
-![python](https://github.com/user-attachments/assets/b7ca325c-416b-4a71-aca6-7b1a849569eb)
+
+
+![python](https://github.com/user-attachments/assets/b7ca325c-416b-4a71-aca6-7b1a849569eb)  ![java](https://github.com/user-attachments/assets/7e9ddec8-c98d-46c9-a979-47cdc13d0db3)
 
 
 
