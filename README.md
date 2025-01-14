@@ -1,6 +1,7 @@
 ##🛠 Primary Tech Stack
 Programming Languages
 Python JavaScript LaTeX
+
 ![python](https://github.com/user-attachments/assets/b7ca325c-416b-4a71-aca6-7b1a849569eb)
 
 
