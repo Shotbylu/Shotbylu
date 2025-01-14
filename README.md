@@ -1,4 +1,4 @@
-🛠 Primary Tech Stack
+**🛠 Primary Tech Stack**
 
 **Programming Languages**
 
@@ -24,22 +24,17 @@
 
 ![image](https://github.com/user-attachments/assets/45e63b6c-3519-4ba4-9c7b-e52494eae153) ![image](https://github.com/user-attachments/assets/518e632a-23d4-458b-91ea-5e28128584b3) ![image](https://github.com/user-attachments/assets/2a634528-02ac-4417-967e-6c62d7530316) ![image](https://github.com/user-attachments/assets/b7ec11ef-37c1-401a-a622-d215f0e9fdf4)![image](https://github.com/user-attachments/assets/3c785ccb-a0fd-4255-a84d-2c45644e14bf) ![image](https://github.com/user-attachments/assets/8d3ea0f9-aaa8-4274-9801-a3a5a835ca82)
 
- 
+**MLOPs**
 
+![image](https://github.com/user-attachments/assets/235896de-eadc-4023-812f-a565fc06eaca) ![image](https://github.com/user-attachments/assets/2cf5c33f-1beb-4a6d-a32a-96d0540aa3ea)
 
+**Databases**
+![image](https://github.com/user-attachments/assets/da96643a-3246-4f3b-bf46-5ca4391bdb97) ![image](https://github.com/user-attachments/assets/1758cdf3-d220-47e4-90f3-891f200bddbe) ![image](https://github.com/user-attachments/assets/39066b1d-7d53-43d8-8a34-27b13a1ef338)
 
+**Frontend Development**
+![image](https://github.com/user-attachments/assets/1208e86f-ac21-4d9f-98a8-fcc5a21f69a4) ![image](https://github.com/user-attachments/assets/ce9257df-3d60-4279-aa2d-a333b92b868e) ![image](https://github.com/user-attachments/assets/e89d082a-1f11-4f4c-bb17-4e1e503e5f59)
 
-
-MLOPs
-mlflow DVC
-
-Databases
-MySQL PostGres MongoDB
-
-Frontend Development
-HTML5 CSS3 React
-
-⚡Areas of Interest
+**⚡Areas of Interest**
 🌟 Synthesizing scripts to make development work flow easier
 
 🌟 Crafting minimalistic Web and Desktop Applications to simplify daily mundane tasks
@@ -48,11 +43,7 @@ HTML5 CSS3 React
 
 🌟 Investigating amusing insights by data analysis across various formats of data such as images,text,geospatial,medical records,pds,etc
 
-🌟 Building tech communities and advocating for products for the future!
-
 🌟 Forging Efficient APIs to enable clients translate their idea into a MVP
-
-🌟 Mentoring young and inquisitive minds to explore their path in tech
 
 🌟 Machine Learning and it's applications across multiple industries such as:
 
