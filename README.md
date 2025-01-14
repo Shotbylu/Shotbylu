@@ -10,6 +10,8 @@
 
 Data Analysis
 NumPy Pandas Plotly OpenCV
+![image](https://github.com/user-attachments/assets/1cca6e49-aae9-457a-b936-73b0f8238e06) 
+
 
 Machine Learning
 scikit-learn PyTorch TensorFlow
