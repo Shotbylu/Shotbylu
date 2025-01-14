@@ -1,4 +1,4 @@
-**🛠 Primary Tech Stack**
+**Primary Tech Stack🛠**
 
 **Programming Languages**
 
@@ -37,6 +37,7 @@
 ![image](https://github.com/user-attachments/assets/1208e86f-ac21-4d9f-98a8-fcc5a21f69a4) ![image](https://github.com/user-attachments/assets/ce9257df-3d60-4279-aa2d-a333b92b868e) ![image](https://github.com/user-attachments/assets/e89d082a-1f11-4f4c-bb17-4e1e503e5f59)
 
 **⚡Areas of Interest**
+
 🌟 Synthesizing scripts to make development work flow easier
 
 🌟 Crafting minimalistic Web and Desktop Applications to simplify daily mundane tasks
