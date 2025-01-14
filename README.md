@@ -8,9 +8,12 @@
 
 
 
-Data Analysis
-NumPy Pandas Plotly OpenCV
-![image](https://github.com/user-attachments/assets/1cca6e49-aae9-457a-b936-73b0f8238e06) 
+**Data Analysis**
+
+![image](https://github.com/user-attachments/assets/1cca6e49-aae9-457a-b936-73b0f8238e06) ![image](https://github.com/user-attachments/assets/ba091c14-fa05-4200-bf54-7028b5c81ff8) ![image](https://github.com/user-attachments/assets/3dbabc1a-b5e5-4540-9c8f-0ef62662921b) ![image](https://github.com/user-attachments/assets/1b3127f2-8181-42ca-8581-e8aaa71047b4)
+
+
+
 
 
 Machine Learning
