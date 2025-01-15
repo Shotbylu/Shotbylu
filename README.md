@@ -50,13 +50,6 @@
 
 🌟 Machine Learning and it's applications across multiple industries such as:
 
-Healthcare
-Climate Change and Environmental Sciences
-Fitness
-Sports
-Advertising
-And many more!
-
 🌟 Playing with Computer Vision
 
 🌟 Natural Language Process
