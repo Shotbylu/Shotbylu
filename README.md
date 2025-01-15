@@ -1,4 +1,4 @@
-**Primary Tech Stack🛠**
+##**Primary Tech Stack🛠**
 
 **Programming Languages**
 
