@@ -46,9 +46,7 @@
 
 🌟 Investigating amusing insights by data analysis across various formats of data such as images,text,geospatial,medical records,pds,etc
 
-🌟 Forging Efficient APIs to enable clients translate their idea into a MVP
-
-🌟 Machine Learning and it's applications across multiple industries such as:
+🌟 Machine Learning and it's applications across multiple industries
 
 🌟 Playing with Computer Vision
 
