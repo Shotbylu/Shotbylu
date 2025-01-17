@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/214af1af-c050-491e-a131-76970cd0a38d)
+
+
 # **Primary Tech Stack🛠**
 
 **Programming Languages**
