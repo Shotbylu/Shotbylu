@@ -60,5 +60,6 @@
 
 🌟 Working on Cloud Deployment of ML Applications to enable them scale and be at the fingertips of customers
 
-![image](https://github.com/user-attachments/assets/441f23a0-b9a8-4517-b774-7f525992ec16)
+![68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3230392f3230393334332e676966](https://github.com/user-attachments/assets/f3eee09d-7936-4a20-9bc2-90ce9daea71c)
+
 
