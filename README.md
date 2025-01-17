@@ -2,7 +2,8 @@
 
 **Programming Languages**
 
-![python](https://github.com/user-attachments/assets/b7ca325c-416b-4a71-aca6-7b1a849569eb)  ![java](https://github.com/user-attachments/assets/7e9ddec8-c98d-46c9-a979-47cdc13d0db3) ![latex](https://github.com/user-attachments/assets/b48ffb37-8924-4631-8f74-d276909e66c5)
+![python](https://github.com/user-attachments/assets/b7ca325c-416b-4a71-aca6-7b1a849569eb)  ![java](https://github.com/user-attachments/assets/7e9ddec8-c98d-46c9-a979-47cdc13d0db3) ![image](https://github.com/user-attachments/assets/8ee271b4-73f5-42ff-900d-301f3483b265)
+ ![latex](https://github.com/user-attachments/assets/b48ffb37-8924-4631-8f74-d276909e66c5)
 
 **Data Analysis**
 
