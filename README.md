@@ -42,9 +42,6 @@
 
 ## **⚡Areas of Interest**
 
-![image](https://github.com/user-attachments/assets/7403902a-8646-4b25-879c-cb2616e6c4f2)
-
-
 🌟 Synthesizing scripts to make development work flow easier
 
 🌟 Crafting minimalistic Web and Desktop Applications to simplify daily mundane tasks
@@ -62,3 +59,6 @@
 🌟 Handling MLOPs for machine learning projects meant for collaboration
 
 🌟 Working on Cloud Deployment of ML Applications to enable them scale and be at the fingertips of customers
+
+![image](https://github.com/user-attachments/assets/441f23a0-b9a8-4517-b774-7f525992ec16)
+
