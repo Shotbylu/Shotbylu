@@ -43,6 +43,7 @@
 ## **⚡Areas of Interest**
 
 🌟 Synthesizing scripts to make development work flow easier
+                                                                                                                                                                                       ![image](https://github.com/user-attachments/assets/1dbe368e-9ec6-488a-a798-b4a82813a6f3)
 
 🌟 Crafting minimalistic Web and Desktop Applications to simplify daily mundane tasks
 
