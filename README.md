@@ -42,8 +42,10 @@
 
 ## **⚡Areas of Interest**
 
+![image](https://github.com/user-attachments/assets/7403902a-8646-4b25-879c-cb2616e6c4f2)
+
+
 🌟 Synthesizing scripts to make development work flow easier
-                                                                                                                                                                                       ![image](https://github.com/user-attachments/assets/1dbe368e-9ec6-488a-a798-b4a82813a6f3)
 
 🌟 Crafting minimalistic Web and Desktop Applications to simplify daily mundane tasks
 
