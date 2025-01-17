@@ -18,7 +18,8 @@
 
 **DevOPs**
 
-![image](https://github.com/user-attachments/assets/e1f1287a-d776-4ebd-8d7a-6b3b129a13f9) ![image](https://github.com/user-attachments/assets/46250961-4666-4413-9359-422dde0608dc) ![image](https://github.com/user-attachments/assets/3d1dc0ee-c251-4e88-8e14-a1a6721c5b67)
+![image](https://github.com/user-attachments/assets/e1f1287a-d776-4ebd-8d7a-6b3b129a13f9) ![image](https://github.com/user-attachments/assets/46250961-4666-4413-9359-422dde0608dc) ![image](https://github.com/user-attachments/assets/68a067ca-31ae-4bfc-88da-752db3ea1004)
+ ![image](https://github.com/user-attachments/assets/3d1dc0ee-c251-4e88-8e14-a1a6721c5b67)
 
 **Cloud Hosting**
 
