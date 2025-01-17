@@ -42,23 +42,23 @@
 
 ## **⚡Areas of Interest**
 
-🌟 Synthesizing scripts to make development work flow easier
+🌟 Automating Workflows – Creating scripts to streamline development and enhance productivity.
 
-🌟 Crafting minimalistic Web and Desktop Applications to simplify daily mundane tasks
+🌟 Minimalist Software Development – Building lightweight web and desktop applications to simplify everyday tasks.
 
-🌟 Composing and Contributing to open source applications for a community centered and transparent tech ecosystem
+🌟 Open Source Contributions – Developing and refining applications to foster a community-driven, transparent tech ecosystem.
 
-🌟 Investigating amusing insights by data analysis across various formats of data such as images,text,geospatial,medical records,pds,etc
+🌟 Exploratory Data Analysis – Uncovering intriguing insights from diverse data formats, including images, text, geospatial data, medical records, PDFs, and more.
 
-🌟 Machine Learning and it's applications across multiple industries
+🌟 Machine Learning Applications – Applying ML across industries to drive innovation and efficiency.
 
-🌟 Playing with Computer Vision
+🌟 Computer Vision – Experimenting with image recognition and analysis to solve real-world problems.
 
-🌟 Natural Language Process
+🌟 Natural Language Processing (NLP) – Enhancing human-computer interactions through text analysis and AI-powered language models.
 
-🌟 Handling MLOPs for machine learning projects meant for collaboration
+🌟 MLOps & Collaboration – Managing the end-to-end lifecycle of ML projects for seamless teamwork and deployment.
 
-🌟 Working on Cloud Deployment of ML Applications to enable them scale and be at the fingertips of customers
+🌟 Cloud Deployment – Deploying scalable ML applications on the cloud to ensure accessibility and performance.
 
 ![68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3230392f3230393334332e676966](https://github.com/user-attachments/assets/f3eee09d-7936-4a20-9bc2-90ce9daea71c)
 
