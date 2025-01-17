@@ -42,23 +42,23 @@
 
 ## **⚡Areas of Interest**
 
-🌟 Automating Workflows – Creating scripts to streamline development and enhance productivity.
+🌟 **Automating Workflows** – Creating scripts to streamline development and enhance productivity.
 
-🌟 Minimalist Software Development – Building lightweight web and desktop applications to simplify everyday tasks.
+🌟 **Minimalist Software Development** – Building lightweight web and desktop applications to simplify everyday tasks.
 
-🌟 Open Source Contributions – Developing and refining applications to foster a community-driven, transparent tech ecosystem.
+🌟 **Open Source Contributions** – Developing and refining applications to foster a community-driven, transparent tech ecosystem.
 
-🌟 Exploratory Data Analysis – Uncovering intriguing insights from diverse data formats, including images, text, geospatial data, medical records, PDFs, and more.
+🌟 **Exploratory Data Analysis** – Uncovering intriguing insights from diverse data formats, including images, text, geospatial data, medical records, PDFs, and more.
 
-🌟 Machine Learning Applications – Applying ML across industries to drive innovation and efficiency.
+🌟 **Machine Learning Applications** – Applying ML across industries to drive innovation and efficiency.
 
-🌟 Computer Vision – Experimenting with image recognition and analysis to solve real-world problems.
+🌟 **Computer Vision** – Experimenting with image recognition and analysis to solve real-world problems.
 
-🌟 Natural Language Processing (NLP) – Enhancing human-computer interactions through text analysis and AI-powered language models.
+🌟 **Natural Language Processing (NLP)** – Enhancing human-computer interactions through text analysis and AI-powered language models.
 
-🌟 MLOps & Collaboration – Managing the end-to-end lifecycle of ML projects for seamless teamwork and deployment.
+🌟 **MLOps & Collaboration** – Managing the end-to-end lifecycle of ML projects for seamless teamwork and deployment.
 
-🌟 Cloud Deployment – Deploying scalable ML applications on the cloud to ensure accessibility and performance.
+🌟 **Cloud Deployment** – Deploying scalable ML applications on the cloud to ensure accessibility and performance.
 
 ![68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3230392f3230393334332e676966](https://github.com/user-attachments/assets/f3eee09d-7936-4a20-9bc2-90ce9daea71c)
 
