@@ -37,7 +37,7 @@
 
 **Frontend Development**
 
-![image](https://github.com/user-attachments/assets/1208e86f-ac21-4d9f-98a8-fcc5a21f69a4) ![image](https://github.com/user-attachments/assets/ce9257df-3d60-4279-aa2d-a333b92b868e) ![image](https://github.com/user-attachments/assets/e89d082a-1f11-4f4c-bb17-4e1e503e5f59) ![image](https://github.com/user-attachments/assets/55164f46-5e78-4b50-80de-b66143f717f9)
+![image](https://github.com/user-attachments/assets/1208e86f-ac21-4d9f-98a8-fcc5a21f69a4) ![image](https://github.com/user-attachments/assets/ce9257df-3d60-4279-aa2d-a333b92b868e) ![image](https://github.com/user-attachments/assets/e89d082a-1f11-4f4c-bb17-4e1e503e5f59) ![image](https://github.com/user-attachments/assets/55164f46-5e78-4b50-80de-b66143f717f9) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
  
 
 ## **⚡Areas of Interest**
