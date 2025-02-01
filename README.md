@@ -28,7 +28,7 @@
 
 **MLOPs**
 
-![image](https://github.com/user-attachments/assets/235896de-eadc-4023-812f-a565fc06eaca) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![image](https://github.com/user-attachments/assets/2cf5c33f-1beb-4a6d-a32a-96d0540aa3ea)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![image](https://github.com/user-attachments/assets/235896de-eadc-4023-812f-a565fc06eaca) ![image](https://github.com/user-attachments/assets/2cf5c33f-1beb-4a6d-a32a-96d0540aa3ea)
 
 **Databases**
 
