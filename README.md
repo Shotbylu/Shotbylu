@@ -3,7 +3,7 @@
 **Programming Languages**
 
 ![python](https://github.com/user-attachments/assets/b7ca325c-416b-4a71-aca6-7b1a849569eb)  ![java](https://github.com/user-attachments/assets/7e9ddec8-c98d-46c9-a979-47cdc13d0db3) ![image](https://github.com/user-attachments/assets/8ee271b4-73f5-42ff-900d-301f3483b265)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Data Analysis**
 
