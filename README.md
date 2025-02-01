@@ -7,8 +7,7 @@
 
 **Data Analysis**
 
-![image](https://github.com/user-attachments/assets/1cca6e49-aae9-457a-b936-73b0f8238e06) ![image](https://github.com/user-attachments/assets/ba091c14-fa05-4200-bf54-7028b5c81ff8) ![image](https://github.com/user-attachments/assets/3dbabc1a-b5e5-4540-9c8f-0ef62662921b) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
+![image](https://github.com/user-attachments/assets/1cca6e49-aae9-457a-b936-73b0f8238e06) ![image](https://github.com/user-attachments/assets/ba091c14-fa05-4200-bf54-7028b5c81ff8) ![image](https://github.com/user-attachments/assets/3dbabc1a-b5e5-4540-9c8f-0ef62662921b) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 **Machine Learning**
 
 ![image](https://github.com/user-attachments/assets/9734f4e2-00ac-4074-b2db-d6077d2b41b3) ![image](https://github.com/user-attachments/assets/669e128e-e763-49e3-a88c-b2e985120566) ![image](https://github.com/user-attachments/assets/11f6ce70-cb5a-4fcd-8f97-bc6185c5b964)
