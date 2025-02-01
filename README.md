@@ -54,8 +54,6 @@
 
 🌟 **Computer Vision** – Experimenting with image recognition and analysis to solve real-world problems.
 
-🌟 **Natural Language Processing (NLP)** – Enhancing human-computer interactions through text analysis and AI-powered language models.
-
 🌟 **MLOps & Collaboration** – Managing the end-to-end lifecycle of ML projects for seamless teamwork and deployment.
 
 🌟 **Cloud Deployment** – Deploying scalable ML applications on the cloud to ensure accessibility and performance.
