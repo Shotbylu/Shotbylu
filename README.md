@@ -48,7 +48,7 @@
 
 🌟 **Open Source Contributions** – Developing and refining applications to foster a community-driven, transparent tech ecosystem.
 
-🌟 **Exploratory Data Analysis** – Uncovering intriguing insights from diverse data formats, including images, geospatial data, medical records and more.
+🌟 **Exploratory Data Analysis** – Uncovering insights from diverse data formats, including images, geospatial data, medical records and more.
 
 🌟 **Machine Learning Applications** – Applying ML across industries to drive innovation and efficiency.
 
