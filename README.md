@@ -11,9 +11,9 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at www.linkedin.com/in/lungelo-sibisi-6745aa21b</samp>
+<samp>-  Reach me at www.linkedin.com/in/lungelo-sibisi-6745aa21b</samp>
 
-<samp>- ⌨️ Fun fact: I spend approximately 3 hours coding every day! 💻</samp>
+<samp>- ⌨ Fun fact: I spend approximately 3 hours coding every day! </samp>
 
 <!-- Qoute -->
 <div style="margin-bottom: 60px;"></div>
@@ -24,7 +24,7 @@
 
 
 <!-- Languages -->
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<h3 align="center"><samp> Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
