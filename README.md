@@ -13,7 +13,7 @@
 
 <samp>- 📫 Reach me at www.linkedin.com/in/lungelo-sibisi-6745aa21b</samp>
 
-<samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp>
+<samp>- ⌨️ Fun fact: I spend approximately 3 hours coding every day! 💻</samp>
 
 <!-- Qoute -->
 <div style="margin-bottom: 60px;"></div>
