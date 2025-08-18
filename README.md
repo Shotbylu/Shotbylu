@@ -1,63 +1,160 @@
-# **Primary Tech Stack 🛠**
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-**Programming Languages**
+<h2 align="center"><samp>Hi 👋 Lungelo Sibisi</samp></h2>
+<h3 align="center"><samp>A Programer from South Africa</samp> </h3>
 
-![python](https://github.com/user-attachments/assets/b7ca325c-416b-4a71-aca6-7b1a849569eb)  ![java](https://github.com/user-attachments/assets/7e9ddec8-c98d-46c9-a979-47cdc13d0db3) ![image](https://github.com/user-attachments/assets/8ee271b4-73f5-42ff-900d-301f3483b265)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-**Data Analysis**
+<!-- Badge -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
-![image](https://github.com/user-attachments/assets/1cca6e49-aae9-457a-b936-73b0f8238e06) ![image](https://github.com/user-attachments/assets/ba091c14-fa05-4200-bf54-7028b5c81ff8) ![image](https://github.com/user-attachments/assets/3dbabc1a-b5e5-4540-9c8f-0ef62662921b) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-**Machine Learning**
+<div style="margin-bottom: 200px;"></div>
 
-![image](https://github.com/user-attachments/assets/9734f4e2-00ac-4074-b2db-d6077d2b41b3) ![image](https://github.com/user-attachments/assets/669e128e-e763-49e3-a88c-b2e985120566) ![image](https://github.com/user-attachments/assets/11f6ce70-cb5a-4fcd-8f97-bc6185c5b964)
+<samp>- 📫 Reach me at https://www.linkedin.com/in/sugith10/</samp>
 
-**Backend Development**
+<samp>- 📫 Reach me at sugithkodappurath@gmail.com</samp>
 
-![image](https://github.com/user-attachments/assets/cf136223-6756-4a4b-b395-a2fce74a66c5) ![image](https://github.com/user-attachments/assets/71036fca-7296-4e04-b755-65bf71fe6869) ![image](https://github.com/user-attachments/assets/a9121631-1e88-4096-90ec-5f55cc0b9ed4) ![image](https://github.com/user-attachments/assets/555cccb2-99f2-4a5b-aa34-45f6a7cad9c1)
+<samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp>
 
-**DevOPs**
+<samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp>
 
-![image](https://github.com/user-attachments/assets/e1f1287a-d776-4ebd-8d7a-6b3b129a13f9) ![image](https://github.com/user-attachments/assets/46250961-4666-4413-9359-422dde0608dc) ![image](https://github.com/user-attachments/assets/68a067ca-31ae-4bfc-88da-752db3ea1004)
- ![image](https://github.com/user-attachments/assets/3d1dc0ee-c251-4e88-8e14-a1a6721c5b67)
+<!-- Qoute -->
+<div style="margin-bottom: 60px;"></div>
+<h3 ><samp>✍️Random Dev Quote</samp></h3>
+    <div>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+    </div>
 
-**Cloud Hosting**
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
- ![image](https://github.com/user-attachments/assets/518e632a-23d4-458b-91ea-5e28128584b3) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![image](https://github.com/user-attachments/assets/8d3ea0f9-aaa8-4274-9801-a3a5a835ca82) 
+<!-- Languages -->
+<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
+      <br>Dart
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
+      </a>
+      <br>Firebase
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
+      <br>BLoC
+    </td>
+   <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
+      <br>Riverpod
+    </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
+      <br>SQ Lite
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
+      <br>Kotlin
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+           <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+           <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+       
+  </tr>
+ <tr>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
+      <br>Android Studio
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <br>Linux
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
+      <br>Apple
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
+ </tr>
+</table>
+</div>
 
-**MLOPs**
+<br>
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![image](https://github.com/user-attachments/assets/235896de-eadc-4023-812f-a565fc06eaca) ![image](https://github.com/user-attachments/assets/2cf5c33f-1beb-4a6d-a32a-96d0540aa3ea)
+<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<p align="center">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sugith10&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
 
-**Databases**
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sugith10&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
 
-![image](https://github.com/user-attachments/assets/da96643a-3246-4f3b-bf46-5ca4391bdb97) ![image](https://github.com/user-attachments/assets/1758cdf3-d220-47e4-90f3-891f200bddbe) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=sugith10&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
 
-**Frontend Development**
 
-![image](https://github.com/user-attachments/assets/1208e86f-ac21-4d9f-98a8-fcc5a21f69a4) ![image](https://github.com/user-attachments/assets/ce9257df-3d60-4279-aa2d-a333b92b868e) ![image](https://github.com/user-attachments/assets/e89d082a-1f11-4f4c-bb17-4e1e503e5f59) ![image](https://github.com/user-attachments/assets/55164f46-5e78-4b50-80de-b66143f717f9) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- 
 
-## **⚡Areas of Interest**
-
-🌟 **Automating Workflows** – Creating scripts to streamline development and enhance productivity.
-
-🌟 **Minimalist Software Development** – Building lightweight web and desktop applications to simplify everyday tasks.
-
-🌟 **Open Source Contributions** – Developing and refining applications to foster a community-driven, transparent tech ecosystem.
-
-🌟 **Exploratory Data Analysis** – Uncovering insights from diverse data formats, including images, geospatial data & medical records.
-
-🌟 **Machine Learning Applications** – Applying ML across industries to drive innovation and efficiency.
-
-🌟 **Computer Vision** – Experimenting with image recognition and analysis to solve real-world problems.
-
-🌟 **MLOps & Collaboration** – Managing the end-to-end lifecycle of ML projects for seamless teamwork and deployment.
-
-🌟 **Cloud Deployment** – Deploying scalable ML applications on the cloud to ensure accessibility and performance.
-
-![68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3230392f3230393334332e676966](https://github.com/user-attachments/assets/f3eee09d-7936-4a20-9bc2-90ce9daea71c)
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/sugith"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
+</p>
 
 
