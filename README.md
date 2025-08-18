@@ -140,15 +140,6 @@
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 
-<p align="center">
-  <!-- username: Shotbylu -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shotbylu&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe"
-    alt="GitHub stats for Shotbylu"
-    style="width:100%;max-width:820px;height:auto;margin-bottom:12px;"
-  />
-
-  <br />
 
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=Shotbylu&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff"
