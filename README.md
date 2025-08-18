@@ -17,7 +17,7 @@
 
 <!-- Qoute -->
 <div style="margin-bottom: 60px;"></div>
-<h3 ><samp>✍️Random Dev Quote</samp></h3>
+<h3 ><samp> Random Quote</samp></h3>
     <div>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
@@ -138,7 +138,7 @@
 
 <br>
 
-<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<h3 align="center"><samp> GitHub Stats</samp></h3>
 
 
   <img
@@ -146,13 +146,6 @@
     alt="GitHub streak stats for Shotbylu"
     style="width:100%;max-width:420px;height:auto;margin-top:8px;"
   />
-</p>
-
-
-
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/sugith"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" />     </a>
 </p>
 
 
