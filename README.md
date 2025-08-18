@@ -139,12 +139,30 @@
 <br>
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+
 <p align="center">
- <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sugith10&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
+  <!-- username: Shotbylu -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shotbylu&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe"
+    alt="GitHub stats for Shotbylu"
+    style="width:100%;max-width:820px;height:auto;margin-bottom:12px;"
+  />
 
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sugith10&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
+  <br />
 
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=sugith10&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shotbylu&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff"
+    alt="Top languages for Shotbylu"
+    style="width:100%;max-width:420px;height:auto;margin-right:8px;"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Shotbylu&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff"
+    alt="GitHub streak stats for Shotbylu"
+    style="width:100%;max-width:420px;height:auto;margin-left:8px;"
+  />
+</p>
+
 
 
 
