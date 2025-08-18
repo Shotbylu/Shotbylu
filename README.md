@@ -1,6 +1,6 @@
-<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+<h1 align="center"><samp></samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-<h2 align="center"><samp>Hi 👋 Lungelo Sibisi</samp></h2>
+<h2 align="center"><samp>Hi👋 I'm Lungelo Sibisi</samp></h2>
 <h3 align="center"><samp>A Programer from South Africa</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
@@ -11,11 +11,7 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/sugith10/</samp>
-
-<samp>- 📫 Reach me at sugithkodappurath@gmail.com</samp>
-
-<samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp>
+<samp>- 📫 Reach me at www.linkedin.com/in/lungelo-sibisi-6745aa21b</samp>
 
 <samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp>
 
