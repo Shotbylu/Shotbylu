@@ -101,8 +101,8 @@
   </tr>
  <tr>
         <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="postman" />
+      <br>firebase
     </td>
        <td align="center" width="100"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
