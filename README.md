@@ -153,21 +153,17 @@
     style="width:100%;max-width:420px;height:auto;margin:4px;"
   />
 
+ <div align="center">
   <!-- GitHub Stats -->
- <!-- GitHub Stats -->
-<img 
- src="https://github-readme-stats.vercel.app/api?username=Shotbylu&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=8" 
- alt="GitHub Stats" 
- width="49%"
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Shotbylu&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=8" 
+    alt="GitHub Stats" 
+    width="49%"
+  />
   <!-- Most Used Languages -->
-  </div>
-<div align="center">
-  <!-- Most Used Languages -->
-<img 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shotbylu&hide_border=true&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&border_radius=8" 
- alt="Most Used Languages" 
- width="49%"
-/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shotbylu&hide_border=true&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&border_radius=8" 
+    alt="Most Used Languages" 
+    width="49%"
+  />
 </div>
