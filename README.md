@@ -60,8 +60,8 @@
       <br>Docker
     </td>
        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
-      <br>Figma
+        <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="45" height="45" />
+      <br>notion
     </td>
   </tr>
   <tr>
