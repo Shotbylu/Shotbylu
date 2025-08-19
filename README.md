@@ -1,113 +1,169 @@
-# 👋 Hello, I'm Lungelo Sibisi
+<h1 align="center"><samp></samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-**A Programmer from South Africa** 🇿🇦
+<h2 align="center"><samp>Lungelo Sibisi</samp></h2>
+<h3 align="center"><samp>A Programer from South Africa</samp> </h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Shotbylu&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Shotbylu)
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
----
-
-## 🚀 About Me
-
-- 🌍 Based in South Africa
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/lungelo-sibisi-6745aa21b)
-- ⌨️ **Fun fact:** I spend approximately 3 hours coding every day!
-- 🎯 Passionate about cloud technologies, machine learning, and software development
-
----
-
-## 💻 Tech Stack
-
-### Cloud Platforms
+<!-- Badge -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="40"/>
-</p>
-
-### Programming & Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-</p>
-
-### Machine Learning & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
-</p>
-
-### DevOps & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
-</p>
-
-### Tools & Software
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=pr" alt="Premiere Pro" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ai" alt="Illustrator" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shotbylu&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=FFFFFF" 
-    alt="GitHub Streak Stats" 
-    width="49%"
+    src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="sugith10" 
   />
-  
+</p>
+
+
+<div style="margin-bottom: 200px;"></div>
+
+<samp>-  Reach me at www.linkedin.com/in/lungelo-sibisi-6745aa21b</samp>
+
+<samp>- ⌨ Fun fact: I spend approximately 3 hours coding every day! </samp>
+
+<!-- Qoute -->
+<div style="margin-bottom: 60px;"></div>
+<h3 ><samp> Random Quotes</samp></h3>
+    <div>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+    </div>
+
+
+<!-- Languages -->
+<h3 align="center"><samp> Languages and Tools</samp></h3>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="45" height="45" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="45" height="45" />
+      <br>AWS
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="45" height="45" />
+      </a>
+      <br>GCP
+    </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="45" height="50" />
+      <br>Python
+    </td>
+   <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="icon" width="45" height="50" />
+      <br>Pytorch
+    </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="SQ Lite" />
+      <br>kubernetes
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="45" height="45" />
+      <br>Docker
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="45" height="45" />
+      <br>notion
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ps" alt="icon" width="65" height="65" />
+      <br>ps
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="HTML5" />
+      <br>wordpress
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="css" />
+      <br>anaconda
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="bootstrap" />
+      <br>pr
+    </td>
+           <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+           <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
+      <br>postgres
+    </td>
+       
+  </tr>
+ <tr>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="postman" />
+      <br>firebase
+    </td>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="android studio" />
+      <br>ai
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <br>Linux
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="firebase" />
+      <br>js
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
+ </tr>
+</table>
+</div>
+
+<br>
+
+<h3 align="center"><samp>GitHub Stats</samp></h3>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Shotbylu&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff"
+    alt="GitHub streak stats for Shotbylu"
+    style="width:100%;max-width:420px;height:auto;margin:4px;"
+  />
+
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Shotbylu&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=8" 
-    alt="GitHub Stats" 
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Shotbylu&show_icons=true&count_private=true&hide_border=true&hide=issues&bg_color=00000000&title_color=5fa0fe&icon_color=5fa0fe&text_color=ffffff"
+    alt="GitHub stats for Shotbylu"
+    style="width:100%;max-width:420px;height:auto;margin-top:8px;"
   />
 
-</div>
-
-<div align="center">
-  
   <!-- Most Used Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shotbylu&hide_border=true&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&border_radius=8" 
-    alt="Most Used Languages" 
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shotbylu&hide_border=true&layout=compact&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&langs_count=6"
+    alt="Most used languages for Shotbylu"
+    style="width:100%;max-width:420px;height:auto;margin-top:8px;"
   />
-
-</div>
-
----
-
-## 💭 Daily Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <samp>✨ <strong>Let's build something amazing together!</strong> ✨</samp>
-</div>
+</p>
