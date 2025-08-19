@@ -53,7 +53,7 @@
     </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="SQ Lite" />
-      <br>SQ Lite
+      <br>kubernetes
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
