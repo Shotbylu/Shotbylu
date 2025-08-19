@@ -1,6 +1,6 @@
 <h1 align="center"><samp></samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
-<h2 align="center"><samp>Hi👋 I'm Lungelo Sibisi</samp></h2>
+<h2 align="center"><samp>Lungelo Sibisi</samp></h2>
 <h3 align="center"><samp>A Programer from South Africa</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
