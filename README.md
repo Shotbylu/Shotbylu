@@ -113,8 +113,8 @@
       <br>Github
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
-      <br>Android Studio
+        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="android studio" />
+      <br>ai
     </td>
             <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
