@@ -125,8 +125,8 @@
       <br>Linux
     </td>
      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
-      <br>Apple
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="firebase" />
+      <br>js
     </td>
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
