@@ -78,8 +78,8 @@
       <br>anaconda
     </td>
     <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="bootstrap" />
+      <br>pr
     </td>
            <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
