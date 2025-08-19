@@ -30,7 +30,7 @@
   <tr>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=azure)" alt="icon" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="45" height="45" />
       </a>
       <br>Azure
     </td>
