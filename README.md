@@ -70,8 +70,8 @@
       <br>ps
     </td>
     <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="HTML5" />
+      <br>wordpress
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
