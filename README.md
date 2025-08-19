@@ -35,13 +35,13 @@
       <br>Azure
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="45" height="45" />
-      <br>Docker
+        <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="45" height="45" />
+      <br>AWS
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="45" height="45" />
       </a>
-      <br>Firebase
+      <br>GCP
     </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=py" alt="icon" width="45" height="50" />
@@ -56,8 +56,8 @@
       <br>kubernetes
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
-      <br>Kotlin
+        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="45" height="45" />
+      <br>Docker
     </td>
        <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
