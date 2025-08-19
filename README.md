@@ -161,9 +161,12 @@
   />
 
   <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shotbylu&hide_border=true&layout=compact&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&langs_count=6"
-    alt="Most used languages for Shotbylu"
-    style="width:100%;max-width:420px;height:auto;margin-top:8px;"
-  />
-</p>
+  </div>
+<div align="center">
+  <!-- Most Used Languages -->
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shotbylu&hide_border=true&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=8&border_radius=8" 
+ alt="Most Used Languages" 
+ width="49%"
+/>
+</div>
