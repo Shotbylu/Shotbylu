@@ -150,7 +150,7 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Shotbylu&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff"
     alt="GitHub streak stats for Shotbylu"
-    style="width:100%;max-width:420px;height:auto;margin-top:8px;"
+    style="width:100%;max-width:420px;height:auto;margin:4px;"
   />
 
   <!-- GitHub Stats -->
