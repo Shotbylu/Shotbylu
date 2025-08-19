@@ -52,7 +52,7 @@
       <br>Pytorch
     </td>
       <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="SQ Lite" />
       <br>SQ Lite
     </td>
     <td align="center" width="100">
