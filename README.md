@@ -17,7 +17,7 @@
 
 <!-- Qoute -->
 <div style="margin-bottom: 60px;"></div>
-<h3 ><samp> Random Quote</samp></h3>
+<h3 ><samp> Random Quotes</samp></h3>
     <div>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
