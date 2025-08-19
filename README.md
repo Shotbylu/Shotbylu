@@ -94,8 +94,8 @@
       <br>My SQL
     </td>
            <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
+      <br>postgres
     </td>
        
   </tr>
