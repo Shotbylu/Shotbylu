@@ -8,11 +8,10 @@
 <!-- Badge -->
 <p align="left">
   <img 
-    src="https://komarev.com/ghpvc/?username=Shotbylu&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Shotbylu" 
+    src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="sugith10" 
   />
 </p>
-
 
 
 <div style="margin-bottom: 200px;"></div>
