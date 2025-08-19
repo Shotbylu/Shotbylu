@@ -30,9 +30,9 @@
   <tr>
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/Azure/Azure-icon.svg" alt="icon" width="45" height="45" />
       </a>
-      <br>Flutter
+      <br>Azure
     </td>
     <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
