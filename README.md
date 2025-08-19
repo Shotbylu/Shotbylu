@@ -44,8 +44,8 @@
       <br>Firebase
     </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
-      <br>BLoC
+        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="45" height="50" />
+      <br>Python
     </td>
    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
