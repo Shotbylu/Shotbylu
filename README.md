@@ -66,8 +66,8 @@
   </tr>
   <tr>
     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=ps" alt="icon" width="65" height="65" />
+      <br>ps
     </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
