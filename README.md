@@ -143,7 +143,7 @@
 
 <br>
 
-<h3 align="center"><samp>Lungelo Sibisi's GitHub Stats & Most Used Languages</samp></h3>
+<h3 align="center"><samp>GitHub Stats</samp></h3>
 
 <p align="center">
   <!-- GitHub Stats -->
