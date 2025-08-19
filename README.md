@@ -35,8 +35,8 @@
       <br>Azure
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
-      <br>Dart
+        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="45" height="45" />
+      <br>Docker
     </td>
     <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
