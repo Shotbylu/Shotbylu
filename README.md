@@ -6,7 +6,13 @@
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 <!-- Badge -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Shotbylu&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Shotbylu" 
+  />
+</p>
+
 
 
 <div style="margin-bottom: 200px;"></div>
