@@ -65,8 +65,8 @@
       <br>Docker
     </td>
        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="45" height="45" />
-      <br>notion
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="45" height="45" />
+      <br>Type Script
     </td>
   </tr>
   <tr>
