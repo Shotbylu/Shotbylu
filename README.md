@@ -44,9 +44,9 @@
       <br>AWS
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=oraclecloudinfrastructure" alt="icon" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="45" height="45" />
       </a>
-      <br>ORC
+      <br>gcp
     </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=py" alt="icon" width="45" height="50" />
