@@ -99,8 +99,8 @@
       <br>My SQL
     </td>
            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
-      <br>postgres
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" />
+      <br>html
     </td>
        
   </tr>
