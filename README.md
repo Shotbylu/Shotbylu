@@ -66,7 +66,7 @@
     </td>
        <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="45" height="45" />
-      <br>Type Script
+      <br>T Script
     </td>
   </tr>
   <tr>
