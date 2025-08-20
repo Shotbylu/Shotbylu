@@ -87,8 +87,8 @@
       <br>pr
     </td>
            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Nodejs" />
+      <br>vstudio
       </td>
           <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
