@@ -126,8 +126,8 @@
       <br>VsCode
     </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
-      <br>Linux
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="linu" />
+      <br>tensorflow
     </td>
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="firebase" />
