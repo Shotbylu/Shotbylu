@@ -99,8 +99,8 @@
       <br>My SQL
     </td>
            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=rust" alt="icon" width="65" height="65" />
-      <br>rust
+        <img src="https://skillicons.dev/icons?i=Windows" alt="icon" width="65" height="65" />
+      <br>Windows
     </td>
        
   </tr>
@@ -134,8 +134,8 @@
       <br>C++
     </td>
      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
-      <br>Windows
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="linu" />
+      <br>Rust
     </td>          
  </tr>
 </table>
