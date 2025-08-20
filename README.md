@@ -99,8 +99,8 @@
       <br>My SQL
     </td>
            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=Windows" alt="icon" width="65" height="65" />
-      <br>Windows
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
+      <br>js
     </td>
        
   </tr>
